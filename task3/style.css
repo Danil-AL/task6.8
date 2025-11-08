@@ -1,0 +1,18 @@
+#trafficLight {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background: black;
+}
+
+section {
+  background-color: rgb(36, 4, 85);
+  display: flex;
+  justify-content: center; 
+  align-items: center;    
+  height: 70vh;
+  width: 100vh;
+  margin: 100px 25%;
+  box-shadow: 15px 35px 15px;
+}
+
